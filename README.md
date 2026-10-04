@@ -78,5 +78,28 @@
 <h2>🚀 KEEP CODING. KEEP BUILDING. KEEP GROWING.</h2>
 
 <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=PROFILE%20VIEWS&style=for-the-badge" />
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
+         width="40" height="40" alt="Instagram"/>
+  </a>
+
+  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         width="40" height="40" alt="Facebook"/>
+  </a>
+</p>
 
 </div>
